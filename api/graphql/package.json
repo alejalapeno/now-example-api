@@ -1,0 +1,13 @@
+{
+  "name": "display-lab-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "apollo-server-micro": "^2.9.4",
+    "graphql": "^14.5.4",
+    "graphql-tools": "^4.0.5",
+    "mongodb": "^3.3.2"
+  }
+}

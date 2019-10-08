@@ -1,0 +1,19 @@
+{
+  "name": "now-example-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {},
+  "workspaces": [
+    "api/graphql",
+    "api/upload/template"
+  ],
+  "devDependencies": {
+    "now": "^16.3.1"
+  },
+  "scripts": {
+    "start": "now dev",
+    "deploy": "now"
+  }
+}
