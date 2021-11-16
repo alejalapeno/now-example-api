@@ -6,7 +6,7 @@
     "private": true,
     "dependencies": {
         "adm-zip": "^0.4.13",
-        "aws-sdk": "^2.524.0",
+        "aws-sdk": "^2.814.0",
         "multer": "^1.4.2"
     },
     "resolutions": {
